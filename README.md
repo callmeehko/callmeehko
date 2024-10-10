@@ -14,8 +14,8 @@
 
 **<h3 align="center">cool things</h3>**
 
-- i'm currently working on a theme parks api
-- fun fact: im boring and learn way too much
+- i'm currently working on a web trading card game
+- fun fact: i'm boring irl and online
 
  **<h3 align="center">skull emojis 💀</h3>**
 
