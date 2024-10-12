@@ -14,7 +14,7 @@
 
 **<h3 align="center">cool things</h3>**
 
-- i'm currently working on a web trading card game
+- i'm currently working on a web idle game
 - fun fact: i'm boring irl and online
 
  **<h3 align="center">skull emojis 💀</h3>**
