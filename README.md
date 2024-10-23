@@ -10,11 +10,11 @@
   </ul>
 </div>
 
- **<h2 align="center">api developer & certified crazy person (real)</h2>**
+ **<h2 align="center">full stack developer & certified crazy person (real)</h2>**
 
 **<h3 align="center">cool things</h3>**
 
-- i'm currently working on a web idle game
+- i'm currently working on a chat application
 - fun fact: i'm boring irl and online
 
  **<h3 align="center">skull emojis 💀</h3>**
