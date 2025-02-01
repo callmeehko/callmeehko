@@ -4,7 +4,7 @@
     <img align="center" height=256 src="https://avatars.githubusercontent.com/u/182702331?v=4">
     <summary>
       <h1>
-        ryan
+        ehko
       </h1>
     </summary>
   </ul>
@@ -14,7 +14,7 @@
 
 **<h3 align="center">cool things</h3>**
 
-- i'm currently working on a chat application
+- i'm currently working on nerimity
 - fun fact: i'm boring irl and online
 
  **<h3 align="center">skull emojis 💀</h3>**
