@@ -14,7 +14,7 @@
 
 **<h3 align="center">cool things</h3>**
 
-- i'm currently working on nerimity
+- i'm currently working on UORDEV
 - fun fact: i'm boring irl and online
 
  **<h3 align="center">skull emojis 💀</h3>**
