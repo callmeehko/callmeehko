@@ -10,11 +10,12 @@
   </ul>
 </div>
 
- **<h2 align="center">full stack developer & certified crazy person (real)</h2>**
+ **<h2 align="center">full stack developer, security engineer, and certified crazy person (real)</h2>**
 
 **<h3 align="center">cool things</h3>**
 
-- i'm currently working on UORDEV
+- i'm currently working on UORDEV/UORHelper
+- i'm currently working on OpenChat
 - fun fact: i'm boring irl and online
 
  **<h3 align="center">skull emojis 💀</h3>**
